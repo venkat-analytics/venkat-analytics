@@ -29,7 +29,7 @@
 
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BJSwaroop&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkat-analytics&theme=react-dark&hide_border=true)
 
 
 ---
