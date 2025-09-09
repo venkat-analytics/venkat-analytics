@@ -1,42 +1,44 @@
-# Hi 👋, I'm K Venkat
+# Hi 👋, I'm venkat
+🎯 Aspiring *Data Analyst | IT Undergraduate*  
+📍 Based in Hyderabad, India  
 
-A passionate Data Analyst from India
+---
 
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=venkat-analytics&repo=venkat-analytics&countColor=%23263759)
+## 🚀 About Me  
+- 📊 Passionate about *Data Analytics & Visualization*  
+- 🛠 Skilled in *Excel, Power BI, SQL, Python (Basic), Tableau*  
+- 🌱 Currently learning *advanced analytics & dashboarding*  
+- 🎯 Seeking *internships/entry-level roles* in *Data Analytics / IT*  
 
-## 👨‍💻 About Me
-- 🔭 I'm currently learning Data Analytics
-- 🤝 I'm looking to collaborate with Data Analysts
-- 💬 Ask me about: EXCEL, SQL, PYTHON, POWERBI, TABLEAU
-- 📫 Reach me: venkat19881@gmail.com
-- 🌐 [Portfolio](https://venkat-analytics.github.io/Portfolio/) 
+---
 
-## ✨ Achievements
-- 📊 Completed [GenAI Powered Data Analytics] 
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat-7b973a1a)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/venkat-analytics)  
 
-## Connect with me:
-[![LinkedIn](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/venkat-7b97334/)
-## 🛠 Languages and Tools:
-<p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Excel" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/tableau" alt="Tableau" width="40" height="40"/>
-</p>
-![Excel](https://img.shields.io/badge/Excel-217346.svg?style=plastic)
-![SQL](https://img.shields.io/badge/SQL-00758F.svg?style=plastic)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=plastic)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=plastic)
-![Tableau](https://img.shields.io/badge/Tableau-2E2E2E.svg?style=plastic)
+---
+
+## 🛠 Languages and Tools  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+
+---
+
+## 📊 GitHub Contributions  
+![GitHub Snake](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📦 Packages & 📌 Releases  
+- 🚫 No releases published yet  
+- 🚫 No packages published yet  
+
+---
+
+✨ Thank you for visiting my profile! 🚀
 
 
-## 🐍 GitHub Contributions Snake
-![GitHub Contributions Snake](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg)
-
-## Releases
-No releases published
-
-## Packages
-No packages published
 
