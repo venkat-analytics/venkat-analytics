@@ -19,8 +19,6 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: venkat-analytics
-        # Remove "outputs:" from here, as it is not valid under "with:"
-        # If you want to specify output paths, refer to the documentation for the action
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
