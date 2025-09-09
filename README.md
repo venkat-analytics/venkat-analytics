@@ -9,7 +9,7 @@ A passionate Data Analyst from India
 - 🤝 I'm looking to collaborate with Data Analysts
 - 💬 Ask me about: EXCEL, SQL, PYTHON, POWERBI, TABLEAU
 - 📫 Reach me: venkat19881@gmail.com
-- 🌐 [Portfolio](http://venkatdotcom.github.io/portfolio/) 
+- 🌐 [Portfolio](https://venkat-analytics.github.io/Portfolio/) 
 
 ## ✨ Achievements
 - 📊 Completed [GenAI Powered Data Analytics] 
