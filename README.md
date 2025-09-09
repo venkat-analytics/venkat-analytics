@@ -1,18 +1,22 @@
-# Hi 👋, I'm k venkat
+# Hi 👋, I'm K Venkat
 
 A passionate Data Analyst from India
 
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=venkat-analytics&repo=venkat-analytics&countColor=%23263759)
 
-## 🚀 About Me
-- 🌱 I'm currently learning Data Analytics
-- 👯 I’m looking to collaborate with Data Analysts
+## 👨‍💻 About Me
+- 🔭 I'm currently learning Data Analytics
+- 🤝 I'm looking to collaborate with Data Analysts
 - 💬 Ask me about: EXCEL, SQL, PYTHON, POWERBI, TABLEAU
-- 📫 Reach me: venkat198881@gmail.com
+- 📫 Reach me: venkat19881@gmail.com
+- 🌐 [Portfolio or LinkedIn Projects](https://example.com) (Replace with your link)
+
+## ✨ Achievements
+- 📊 Completed [GenAI Powered Data Analytics] (e.g., Google Data Analytics) (Add if applicable)
 
 
 ## Connect with me:
- [![LinkedIn](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/venkat-7b7197334/) 
+[![LinkedIn](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/venkat-7b97334/)
 ## 🛠 Languages and Tools:
 <p align="left">
   <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Excel" width="40" height="40"/>
@@ -21,19 +25,18 @@ A passionate Data Analyst from India
   <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/tableau" alt="Tableau" width="40" height="40"/>
 </p>
+[![Excel](https://img.shields.io/badge/Excel-217346.svg?&style=plastic)](https://excel.com)
+[![SQL](https://img.shields.io/badge/SQL-00758F.svg?&style=plastic)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic)](https://www.python.org/)
+[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?&style=plastic)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-2E2E2E.svg?&style=plastic)](https://www.tableau.com/)
 
-## 📊 k venkat's GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkat-analytics&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-analytics&layout=compact&theme=radical&hide_border=true)
-
-## 🔥 My Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=venkat-analytics&theme=radical&hide_border=true)
-
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkat-analytics&theme=react-dark&hide_border=true)
+## 🐍 GitHub Contributions Snake
+![GitHub Contributions Snake](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg)
 
 ## Releases
 No releases published
 
 ## Packages
 No packages published
+
