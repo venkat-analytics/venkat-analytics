@@ -24,11 +24,11 @@ A passionate Data Analyst from India
   <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/tableau" alt="Tableau" width="40" height="40"/>
 </p>
-[![Excel](https://img.shields.io/badge/Excel-217346.svg?&style=plastic)](https://excel.com)
-[![SQL](https://img.shields.io/badge/SQL-00758F.svg?&style=plastic)](https://www.mysql.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic)](https://www.python.org/)
-[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?&style=plastic)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-2E2E2E.svg?&style=plastic)](https://www.tableau.com/)
+![Excel](https://img.shields.io/badge/Excel-217346.svg?&style=plastic)](https://excel.com)
+![SQL](https://img.shields.io/badge/SQL-00758F.svg?&style=plastic)](https://www.mysql.com/)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic)](https://www.python.org/)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?&style=plastic)](https://powerbi.microsoft.com/)
+![Tableau](https://img.shields.io/badge/Tableau-2E2E2E.svg?&style=plastic)](https://www.tableau.com/)
 
 ## 🐍 GitHub Contributions Snake
 ![GitHub Contributions Snake](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg)
