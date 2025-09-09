@@ -28,7 +28,8 @@
 ---
 
 ## 📊 GitHub Contributions  
-![GitHub Snake](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake Dark](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
