@@ -1,13 +1,3 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -24,6 +14,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: .github/snk
+          build_dir: .
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
