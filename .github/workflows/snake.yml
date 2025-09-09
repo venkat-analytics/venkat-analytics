@@ -6,15 +6,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
-  
-  with:
-  github_user_name: venkat-analytics
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -23,9 +19,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: venkat-analytics
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        outputs: |
+          dist/github-contribution-grid-snake.svg
+          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
