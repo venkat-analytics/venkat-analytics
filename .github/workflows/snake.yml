@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  
   with:
   github_user_name: venkat-analytics
 
