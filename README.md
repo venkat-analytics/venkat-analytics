@@ -92,6 +92,11 @@
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat-7b7197334/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-7b973a1a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-7b973a1a)
+<a href="https://www.linkedin.com/in/venkat-7b973a1a" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat-7b973a1a)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/venkat-analytics)  
   
 
