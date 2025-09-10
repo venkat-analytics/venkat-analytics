@@ -6,9 +6,6 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=venkat-analytics&label=Profile%20Views&color=0e75b6&style=flat)  
 
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=venkat-analytics&repo=venkat-analytics&countColor=%23263759)
-
-
 ---
 
 ## 🚀 About Me  
@@ -61,17 +58,17 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions  
+## 📊 GitHub Streak   
 
-![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkat-analytics&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkat-analytics&theme=tokyonight) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-analytics&layout=compact&theme=tokyonight)  
+## 📊 Most Used Languages
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkat-analytics&theme=tokyonight)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-analytics&layout=compact&theme=tokyonight) 
+  
 ## 📊 GitHub Contributions  
 
-![Snake Contributions](https://img.shields.io/badge/Snake%20Contributions-Active-brightgreen?style=flat&logo=github)
+![Github Contributions](https://img.shields.io/badge/Snake%20Contributions-Active-brightgreen?style=flat&logo=github)
 
 
 <picture>
