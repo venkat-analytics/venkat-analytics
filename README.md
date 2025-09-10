@@ -27,11 +27,12 @@
 ---
 
 ## 📌 Projects  
-🔹 *AdventureWorks Sales Dashboard (SQL + Power BI)*  
-- Wrote *SQL queries* for data cleaning & extraction  
+🔹 *AdventureWorks Sales Dashboard (Excel)*  
+  
 - Built dashboard showing *customer trends & revenue performance*  
-
-🔹 *Blinkit Grocery Sales Dashboard (Power BI)*  
+- Interactive sales dashboard analyzing *categories, orders & revenue* 
+🔹 *Blinkit Grocery Sales Dashboard (Excel)*
+ 
 - Interactive sales dashboard analyzing *categories, orders & revenue*  
 - Implemented *slicers, KPIs, navigation buttons*
 ---
