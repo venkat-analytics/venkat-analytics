@@ -18,7 +18,7 @@
 ---
 
 ## 🏆 Achievements 
-- 🏅 Completed
+- 🏅 Completed *GenAI Powered Data Analytics*
 - 🥇 Completed *Data Analytics Projects* using Excel, Power BI & Tableau  
 - 💡 Created *Interactive Dashboards* with slicers, drill-through, and KPIs  
 - 🎓 *IT Undergraduate* with a focus on *Analytics & Business Insights*  
@@ -77,9 +77,9 @@
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat-7b973a1a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat-7b7197334/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/venkat-analytics)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](venkat198881@gmail.com)  
+  
 
 ---
 
