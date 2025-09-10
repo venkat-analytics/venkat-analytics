@@ -15,7 +15,7 @@
 - 🌱 Currently learning *Advanced Analytics & Dashboarding*  
 - 🎯 Seeking *Internships / Entry-level roles* in *Data Analytics / IT*
 - 📫 Reach me: venkat19881@gmail.com
-- 🌐 [Portfolio](https://example.com)  
+- 🌐 [Portfolio](https://venkat-analytics.github.io/Portfolio/)  
 
 ---
 
