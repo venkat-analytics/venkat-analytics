@@ -56,7 +56,7 @@
 ## 📌 Projects 
 
 - [![AdventureWorks Analytics](https://img.shields.io/badge/AdventureWorks%20Analytics-FF6C37?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/venkat-analytics/Adventure-Works-Sales-Analysis)  
-  📈 End-to-end *AdventureWorks sales report* using *Excel* with drill filters.
+  📈 End-to-end *Adventure Works sales project* using *Excel* with insights and KPIs.
   
 - [![Blinkit Sales Dashboard](https://img.shields.io/badge/Blinkit%20Sales%20Dashboard-0A66C2?style=for-the-badge&logo=power-bi&logoColor=white)](https://github.com/venkat-analytics/Blinkit-Sales-Analysis-Dashboard)  
   📊 Sales analysis dashboard built in *Excel* using Blinkit dataset with insights and KPIs.  
