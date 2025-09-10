@@ -126,6 +126,9 @@
   <img alt="GitHub Snake SVG" src="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg">
 </picture>
 
+![GitHub Snake Light](https://raw.githubusercontent.com/vebkat/vebkat/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/vebkat/vebkat/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 ---
