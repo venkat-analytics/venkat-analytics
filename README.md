@@ -3,7 +3,9 @@
 🎯 Aspiring *Data Analyst | IT Undergraduate*  
 📍 Based in Hyderabad, India
 ---
-
+## 🏆 Badges  
+![Profile Views](https://komarev.com/ghpvc/?username=venkat-analytics&label=Profile%20Views&color=0e75b6&style=flat)  
+![Snake Contributions](https://img.shields.io/badge/Snake%20Contributions-Active-brightgreen?style=flat&logo=github)
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=venkat-analytics&repo=venkat-analytics&countColor=%23263759)
 
 
