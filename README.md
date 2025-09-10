@@ -126,7 +126,10 @@
   <img alt="GitHub Snake SVG" src="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg">
 </picture>
 
-![GitHub Contribution Graph](https://github.com/venkat-analytics/venkat-analytics/blob/main/profile-graph.png)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkat-analytics&theme=react-dark&hide_border=true)
+
 ---
 
 ## 🎯 Goals for 2025  
