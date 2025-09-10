@@ -53,13 +53,17 @@
 
 ---
 
-## 📌 Projects 
+## 📌 Projects  
 
-- [![Adventure Works Sales Dashboard](https://img.shields.io/badge/Adventureworks%20Analytics-FF6C37?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/venkat-analytics/Adventure-Works-Sales-Analysis)  
-  📈 End-to-end *Adventure Works sales project* using *Excel* with insights and KPIs.
-  
-- [![Blinkit Grocery Sales Dashboard](https://img.shields.io/badge/Blinkit%20Sales%20Dashboard-0A66C2?style=for-the-badge&logo=power-bi&logoColor=white)](https://github.com/venkat-analytics/Blinkit-Sales-Analysis-Dashboard)  
-  📊 Sales analysis dashboard built in *Excel* using Blinkit dataset with insights and KPIs.  
+### 🚀 Adventure Works Sales Dashboard  
+[![Adventure Works Sales Dashboard](https://img.shields.io/badge/Adventure%20Works%20Sales%20Dashboard-FF6C37?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/venkat-analytics/Adventure-Works-Sales-Analysis)  
+📈 End-to-end Adventure Works sales project using Excel with insights and KPIs.  
+
+---
+
+### 🛒 Blinkit Grocery Sales Dashboard  
+[![Blinkit Grocery Sales Dashboard](https://img.shields.io/badge/Blinkit%20Grocery%20Sales%20Dashboard-0A66C2?style=for-the-badge&logo=power-bi&logoColor=white)](https://github.com/venkat-analytics/Blinkit-Sales-Analysis-Dashboard)  
+📊 Sales analysis dashboard built in Excel using Blinkit dataset with insights and KPIs 
 
 
 ---
