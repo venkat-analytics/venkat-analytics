@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day
+    - cron: "0 0 * * *" # every day at midnight
   workflow_dispatch:
 
 permissions:
@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake (with months & weekdays)
+      - name: Generate snake with months & weekdays
         uses: Platane/snk@v3
         with:
           github_user_name: venkat-analytics
@@ -20,7 +20,7 @@ jobs:
             dist/snake-light.svg?palette=github
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
+      - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
