@@ -4,9 +4,34 @@
 📍 Based in Hyderabad, India
 ---
   
+<!-- Centered Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=venkat-analytics&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" width="250"/>
-</p> 
+</p>
+
+<!-- Centered Social Icons -->
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/venkat-7b973a1a" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/venkat-analytics" target="_blank">
+    <img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub"/>
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="X"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+  </p>
+
 
 ---
 
