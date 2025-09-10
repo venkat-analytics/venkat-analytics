@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Run daily at midnight UTC
+    - cron: "0 0 * * *" # every day
   workflow_dispatch:
 
 permissions:
@@ -12,21 +12,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake files (Light)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: vebkat   # <-- your username
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github   # shows months/weekdays
-
-      - name: Generate Snake files (Dark)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake (with months & weekdays)
+        uses: Platane/snk@v3
         with:
           github_user_name: venkat-analytics
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark   # shows months/weekdays
+            dist/snake-light.svg?palette=github
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Push Snake files to output branch
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
