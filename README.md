@@ -93,7 +93,7 @@
 <!-- Social Icons Section -->
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/venkat-7b973a1a" target="_blank">
+  <a href="https://www.linkedin.com/in/venkat-7b7197334/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 
@@ -103,24 +103,19 @@
   </a>
 
   <!-- Twitter -->
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <a href="hhttps://x.com/KVenkat554524?t=DHRAqp_XqzZJKmbstP1mIw&s=09" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:venkat198881@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
+  <a href="https://www.instagram.com/ig_venky7?igsh=M2ZlbHVjZjY4bjgz" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
-
-  <!-- Portfolio -->
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-website-includes-content-that-is-displayed-on-the-web-color-tal-revivo.png" alt="Portfolio"/>
-  </a>
 </p> 
   
 
