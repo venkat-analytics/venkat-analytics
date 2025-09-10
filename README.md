@@ -13,7 +13,9 @@
 - 📊 Passionate about *Data Analytics & Visualization*  
 - 🛠 Skilled in *Excel, Power BI, SQL, Python (Basic), Tableau)*  
 - 🌱 Currently learning *Advanced Analytics & Dashboarding*  
-- 🎯 Seeking *Internships / Entry-level roles* in *Data Analytics / IT*  
+- 🎯 Seeking *Internships / Entry-level roles* in *Data Analytics / IT*
+- 📫 Reach me: venkat19881@gmail.com
+- 🌐 [Portfolio](https://example.com)  
 
 ---
 
