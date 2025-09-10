@@ -68,7 +68,7 @@
   
 ## 📊 GitHub Contributions  
 
-![Github Contributions](https://img.shields.io/badge/Snake%20Contributions-Active-brightgreen?style=flat&logo=github)
+![Github Contributions](https://img.shields.io/badge/Github%20Contributions-Active-brightgreen?style=flat&logo=github)
 
 
 <picture>
