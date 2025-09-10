@@ -4,7 +4,9 @@
 📍 Based in Hyderabad, India
 ---
   
-![Profile Views](https://komarev.com/ghpvc/?username=venkat-analytics&label=Profile%20Views&color=0e75b6&style=flat)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkat-analytics&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" width="250"/>
+</p> 
 
 ---
 
@@ -114,10 +116,6 @@
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/ig_venky7?igsh=M2ZlbHVjZjY4bjgz" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
 </p> 
   
 
