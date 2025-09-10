@@ -102,10 +102,12 @@
     <img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub"/>
   </a>
 
-  <!-- Twitter -->
-  <a href="hhttps://x.com/KVenkat554524?t=DHRAqp_XqzZJKmbstP1mIw&s=09" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/KVenkat554524?t=DHRAqp_XqzZJKmbstP1mIw&s=09" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="X"/>
   </a>
+
 
   <!-- Gmail -->
   <a href="mailto:venkat198881@gmail.com" target="_blank">
