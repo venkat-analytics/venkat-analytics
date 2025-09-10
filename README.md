@@ -1,7 +1,9 @@
 # Hi there 👋, I'm Venkat  
 
 🎯 Aspiring *Data Analyst | IT Undergraduate*  
-📍 Based in Hyderabad, India  
+📍 Based in Hyderabad, India
+---
+
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=venkat-analytics&repo=venkat-analytics&countColor=%23263759)
 
 
