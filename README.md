@@ -12,7 +12,7 @@
 <!-- Centered Social Icons -->
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/venkat-7b973a1a" target="_blank">
+  <a href="https://www.linkedin.com/in/venkat-7b7197334/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 
@@ -22,12 +22,12 @@
   </a>
 
   <!-- X (Twitter) -->
-  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+  <a href="https://x.com/KVenkat554524?t=DHRAqp_XqzZJKmbstP1mIw&s=09" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="X"/>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:venkat198881@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>
   </p>
