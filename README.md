@@ -27,7 +27,7 @@
 ---
 
 ## 📌 Projects  
-🔹 *AdventureWorks Sales Dashboard (Excel)*  
+🔹 *Adventure Works Sales Dashboard (Excel)*  
   
 - Built dashboard showing *customer trends & revenue performance*  
 - Interactive sales dashboard analyzing *categories, orders & revenue*
