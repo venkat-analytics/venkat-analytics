@@ -90,14 +90,38 @@
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat-7b7197334/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-7b973a1a)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-7b973a1a)
-<a href="https://www.linkedin.com/in/venkat-7b973a1a" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-</a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat-7b973a1a)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/venkat-analytics)  
+<!-- Social Icons Section -->
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/venkat-7b973a1a" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/venkat-analytics" target="_blank">
+    <img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub"/>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-website-includes-content-that-is-displayed-on-the-web-color-tal-revivo.png" alt="Portfolio"/>
+  </a>
+</p> 
   
 
 ---
