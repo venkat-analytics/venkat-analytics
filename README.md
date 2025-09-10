@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Venkat  
+# Hi 👋, I'm Venkat  
 
 🎯 Aspiring *Data Analyst | IT Undergraduate*  
 📍 Based in Hyderabad, India
