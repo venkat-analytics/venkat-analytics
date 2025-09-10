@@ -67,8 +67,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkat-analytics&theme=tokyonight)  
 
-🐍 Contribution Snake:  
-![GitHub Snake](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg)  
+## 📊 GitHub Contributions  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
