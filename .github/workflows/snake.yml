@@ -1,16 +1,18 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Run every day at midnight UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allow manual runs
+  schedule:
+    - cron: "0 0 * * *" # Run daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write   # <-- allows pushing to output branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Generate Snake files
-      - name: Generate GitHub Contribution Snake
+      - name: Generate Snake files
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: venkat-analytics   # <-- replace with your GitHub username
@@ -18,7 +20,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      # Step 2: Push the generated files to output branch
       - name: Push Snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -26,4 +27,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
