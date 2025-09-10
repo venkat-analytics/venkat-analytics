@@ -69,11 +69,17 @@
 
 ## 📊 GitHub Contributions  
 
+![Snake Contributions](https://img.shields.io/badge/Snake%20Contributions-Active-brightgreen?style=flat&logo=github)
+
+### 🐍 SVG Snake (Light & Dark)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake SVG" src="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg">
 </picture>
+
+### 🎞 GIF Snake Animation
+![GitHub Snake GIF](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.gif)
 
 ---
 
