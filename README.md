@@ -30,7 +30,8 @@
 🔹 *AdventureWorks Sales Dashboard (Excel)*  
   
 - Built dashboard showing *customer trends & revenue performance*  
-- Interactive sales dashboard analyzing *categories, orders & revenue* 
+- Interactive sales dashboard analyzing *categories, orders & revenue*
+  
 🔹 *Blinkit Grocery Sales Dashboard (Excel)*
  
 - Interactive sales dashboard analyzing *categories, orders & revenue*  
