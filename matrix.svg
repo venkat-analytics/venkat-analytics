@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <script type="application/ecmascript"><![CDATA[
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+    const letters = Array(256).join(1).split('');
+    const svg = document.currentScript.ownerDocument.documentElement;
+
+    function draw() {
+      svg.querySelectorAll('text').forEach(el => el.remove());
+      letters.map((y_pos, index) => {
+        const text = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        text.setAttribute("x", index * 10);
+        text.setAttribute("y", y_pos);
+        text.setAttribute("fill", "#0F0");
+        text.setAttribute("font-size", "14");
+        text.textContent = String.fromCharCode(0x30A0 + Math.random() * 96);
+        svg.appendChild(text);
+        letters[index] = (y_pos > height + Math.random() * 1e4) ? 0 : parseFloat(y_pos) + 10;
+      });
+    }
+    setInterval(draw, 60);
+  ]]></script>
+
+  <!-- Your Intro Text -->
+  <text x="50%" y="50%" text-anchor="middle" font-size="28" fill="#00ff99" font-family="monospace">
+    Hi there, I am Venkat
+  </text>
+</svg>
