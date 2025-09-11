@@ -53,6 +53,7 @@
 ---
 
 <h3 style="color: #1e40af;">About Me:</h3> 
+
 - 📊 Passionate about *Data Analytics & Visualization*  
 - 🛠 Skilled in *Excel, Power BI, SQL, Python (Basic), Tableau)*  
 - 🌱 Currently learning *Advanced Analytics & Dashboarding*  
@@ -62,6 +63,7 @@
 ---
 
 <h3 style="color: #1e40af;">Achievements:</h3> 
+
 - 🏅 Completed *GenAI Powered Data Analytics*
 - 🥇 Completed *Data Analytics Projects* using Excel, Power BI & Tableau  
 - 💡 Created *Interactive Dashboards* with slicers, drill-through, and KPIs  
@@ -140,11 +142,13 @@
 
 
 <h3 style="color: #1e40af;">Activity Graph:</h3>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkat-analytics&theme=react-dark&hide_border=true)
 
 ---
 
 <h3 style="color: #1e40af;">Goals For 2025:</h3> 
+
 - ✅ Master *Advanced SQL & Python for Analytics*  
 - ✅ Publish *3+ Data Analytics projects* on GitHub  
 - ✅ Earn a *Microsoft Data Analyst Associate Certification*  
@@ -153,6 +157,7 @@
 ---
 
 <h3 style="color: #1e40af;">Connect With Me:</h3> 
+
 <!-- Social Icons Section -->
 <p align="left">
   <!-- LinkedIn -->
