@@ -71,7 +71,7 @@
     <tr>
       <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" height="40"/><br>
-        <b style="font-size: 18px; color: #fff;">Engineer Student</b><br>
+        <b style="font-size: 18px; color: #fff;">Engineer Student(IT)</b><br>
         <i style="font-size: 14px; color: #94a3b8;">Bapatla Engineering College</i>
       </td>
       <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
@@ -84,7 +84,7 @@
       <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" height="40"/><br>
         <b style="font-size: 18px; color: #fff;">Building Interactive Dashboards</b><br>
-        <i style="font-size: 14px; color: #94a3b8;">e.g. Insights Dashboards</i>
+        <i style="font-size: 14px; color: #94a3b8;"> Insights </i>
       </td>
       <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40"/><br>
