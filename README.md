@@ -116,6 +116,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-analytics&layout=compact&theme=tokyonight)
 
+<h3 style="color: #1e40af;">Github contributions:</h3>
 <p>
     <a href="https://github.com/venkat-analytics">
       <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkat-analytics&theme=react" />
