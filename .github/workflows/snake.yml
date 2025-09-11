@@ -12,11 +12,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate Snake SVGs
       - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,14 +23,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Install Python if needed
-      - name: Ensure Python and dependencies
-        run: sudo apt-get install -y python3
-
-      # Add axis labels (months, weekdays, years)
+      # Write Python script to file and run it
       - name: Add axis labels to SVG
         run: |
-          python3 <<EOF
+          cat <<EOF > add_labels.py
 import xml.etree.ElementTree as ET
 import os
 
@@ -89,8 +83,8 @@ for file in svg_files:
         root.append(text)
     tree.write(file)
 EOF
+          python3 add_labels.py
 
-      # Commit and push the changes
       - name: Commit and push SVGs
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
