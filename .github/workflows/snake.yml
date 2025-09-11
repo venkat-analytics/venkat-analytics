@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
+    - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
 
 permissions:
@@ -11,14 +11,13 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Checkout repo
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate snake SVGs
-      - name: Generate Snake
+      # Step 2: Generate Snake SVGs
+      - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: venkat-analytics
@@ -26,26 +25,34 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Step 3: Add axis labels (months, weekdays, year)
-      - name: Add Labels to Snake
+      # Step 3: Add Axis Labels (years, months, weekdays) using Python
+      - name: Add axis labels to SVG
         run: |
-          python3 - <<'EOF'
+          python3 <<EOF
           import xml.etree.ElementTree as ET
-          from datetime import datetime
 
-          for file in ["dist/github-contribution-grid-snake.svg",
-                       "dist/github-contribution-grid-snake-dark.svg"]:
+          svg_files = [
+              "dist/github-contribution-grid-snake.svg",
+              "dist/github-contribution-grid-snake-dark.svg"
+          ]
+          month_names = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                         "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+          weekdays = ["Mon", "Wed", "Fri"]
+          years = ["2023", "2024", "2025"] # Add more years as needed
+
+          month_start_x, month_y, month_step = 14, 10, 60
+          weekday_x, weekday_start_y, weekday_step = 2, 24, 20
+          year_start_x, year_y, year_step = 14, 0, 720
+
+          for file in svg_files:
               tree = ET.parse(file)
               root = tree.getroot()
-              ns = {"svg": "http://www.w3.org/2000/svg"}
 
               # Add months (top axis)
-              months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
-              start_x, y, step = 14, 10, 60
-              for i, month in enumerate(months):
+              for i, month in enumerate(month_names):
                   text = ET.Element("text", {
-                      "x": str(start_x + i*step),
-                      "y": str(y),
+                      "x": str(month_start_x + i * month_step),
+                      "y": str(month_y),
                       "font-size": "10",
                       "fill": "#555",
                       "text-anchor": "middle"
@@ -54,12 +61,10 @@ jobs:
                   root.append(text)
 
               # Add weekdays (left axis)
-              weekdays = ["Mon","Wed","Fri"]
-              x, start_y, step = 2, 24, 26
               for i, day in enumerate(weekdays):
                   text = ET.Element("text", {
-                      "x": str(x),
-                      "y": str(start_y + i*step),
+                      "x": str(weekday_x),
+                      "y": str(weekday_start_y + i * weekday_step),
                       "font-size": "10",
                       "fill": "#555",
                       "text-anchor": "start"
@@ -67,27 +72,24 @@ jobs:
                   text.text = day
                   root.append(text)
 
-              # Add current year (bottom center)
-              year = str(datetime.now().year)
-              text = ET.Element("text", {
-                  "x": "360",  # half of 720 width
-                  "y": "105",  # near bottom
-                  "font-size": "12",
-                  "fill": "#333",
-                  "text-anchor": "middle",
-                  "font-weight": "bold"
-              })
-              text.text = year
-              root.append(text)
+              # Add years (top axis)
+              for i, year in enumerate(years):
+                  text = ET.Element("text", {
+                      "x": str(year_start_x + i * year_step),
+                      "y": str(year_y),
+                      "font-size": "12",
+                      "fill": "#222",
+                      "text-anchor": "start"
+                  })
+                  text.text = year
+                  root.append(text)
 
               tree.write(file)
           EOF
 
-      # Step 4: Push snake to output branch
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      # Step 4: Push changes if you want to auto-update
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: 'Update contribution snake SVG with axis labels'
+          file_pattern: 'dist/github-contribution-grid-snake*.svg'
