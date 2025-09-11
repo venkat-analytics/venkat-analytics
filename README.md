@@ -20,10 +20,6 @@
 
 <hr style="margin-bottom: 40px; border: 2px solid #52cbd1; width: 80%;">
 
-<p align="center" >
-   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
-</p>
-
 
 <!-- Centered Profile Views Badge -->
 <p align="center">
@@ -56,6 +52,10 @@
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>
   </p>
+
+  <p align="center" >
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
+</p>
 
 
 ---
