@@ -114,7 +114,12 @@
 
 <h3 style="color: #1e40af;">Most Used Languages:</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-analytics&layout=compact&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-analytics&layout=compact&theme=tokyonight)
+
+<p>
+    <a href="">
+      <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=react" />
+    </a>
   
 <h3 style="color: #1e40af;">Github Contributions With Snake Animation:</h3> 
 
