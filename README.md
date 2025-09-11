@@ -60,13 +60,40 @@
 
 ---
 
-<h3 style="color: #1e40af;">About Me:</h3> 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me  
 
-- 📊 Passionate about *Data Analytics & Visualization*  
-- 🛠 Skilled in *Excel, Power BI, SQL, Python (Basic), Tableau)*  
-- 🌱 Currently learning *Advanced Analytics & Dashboarding*  
-- 🎯 Seeking *Internships / Entry-level roles* in *Data Analytics / IT*
-- 🌐 [Portfolio](https://venkat-analytics.github.io/Portfolio/)  
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Engineer+Student+(IT);%F0%9F%93%8A+Aspiring+Data+Analyst;%F0%9F%92%BB+Skilled+in+Excel%2C+Power+BI%2C+SQL%2C+Python%2C+Tableau;%F0%9F%93%88+Building+Interactive+Dashboards+(e.g.%3A+Insights+Dashboard);%E2%9A%96%EF%B8%8F+Problem+Solving+%26+Decision+Making" alt="Typing SVG">
+</p>
+
+<div align="center">
+  <table width="80%" style="border-collapse: separate; border-spacing: 10px; background: #1e293b; padding: 20px; border-radius: 20px;">
+    <tr>
+      <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" height="40"/><br>
+        <b style="font-size: 18px; color: #fff;">Engineer Student</b><br>
+        <i style="font-size: 14px; color: #94a3b8;">Bapatla Engineering College</i>
+      </td>
+      <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40"/><br>
+        <b style="font-size: 18px; color: #fff;">Data Analyst</b><br>
+        <i style="font-size: 14px; color: #94a3b8;">Excel | Power BI | SQL | Python | Tableau</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" height="40"/><br>
+        <b style="font-size: 18px; color: #fff;">Building Dashboards</b><br>
+        <i style="font-size: 14px; color: #94a3b8;">e.g. Sales Insights Dashboard</i>
+      </td>
+      <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40"/><br>
+        <b style="font-size: 18px; color: #fff;">Problem-Solving & Decision-Making</b><br>
+        <i style="font-size: 14px; color: #94a3b8;">Transforming Data into Insights</i>
+      </td>
+    </tr>
+  </table>
+</div> 
 
 ---
 
