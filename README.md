@@ -90,30 +90,21 @@
 
 ---
 
-<h3 style="color: #1e40af;">Tools And Technologies:</h3> 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tools and Technologies  
 
-<p align="center">
-  <!-- Excel -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+<div align="center">
 
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="13%" />
+<img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="13%" />
+<img src="https://img.icons8.com/ios-filled/100/4479A1/sql.png" alt="SQL" width="13%" />
+<img src="https://img.icons8.com/color/96/python.png" alt="Python" width="13%" />
+<img src="https://img.icons8.com/color/96/tableau-software.png" alt="Tableau" width="13%" />
 
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<br><br>
 
-  <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" />
 
-  <!-- Tableau -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+</div>
 
 <h3 style="color: #1e40af;">Currently Learning:</h3> 
 
