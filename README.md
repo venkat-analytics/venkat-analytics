@@ -72,7 +72,7 @@
 
 <h3 style="color: #1e40af;">Visit my Projects:</h3>
 <ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
-  <li><h3>😎 <a href="https://kanadkapil.github.io/MorseCode-WebApp" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">MorseCode App</a></h3></li>
+  <li><h3>😎 <a href="https://github.com/venkat-analytics/Adventure-Works-Sales-Analysis" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Adventure Works Sales Analysis</a></h3></li>
   <li><h3>💾 <a href="https://kanadkapil.github.io/Portfolio_terminal" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Terminal App (In Progress)</a></h3></li>
 </ul>
 
