@@ -97,15 +97,7 @@
 
 ---
 
-<h3 style="color: #1e40af;">Achievements:</h3> 
-
-- 🏅 Completed *GenAI Powered Data Analytics*
-- 🥇 Completed *Data Analytics Projects* using Excel, Power BI & Tableau  
-- 💡 Created *Interactive Dashboards* with slicers, drill-through, and KPIs  
-- 🎓 *IT Undergraduate* with a focus on *Analytics & Business Insights*  
  
-
----
 
 
 <h3 style="color: #1e40af;">Visit my Projects:</h3>
@@ -167,15 +159,6 @@
 
 ---
 
-<h3 style="color: #1e40af;">Goals For 2025:</h3> 
-
-- ✅ Master *Advanced SQL & Python for Analytics*  
-- ✅ Publish *3+ Data Analytics projects* on GitHub  
-- ✅ Earn a *Microsoft Data Analyst Associate Certification*  
-- ✅ Contribute to *open-source analytics projects*
- 
-
----
 
 <h3 style="color: #1e40af;">Connect With Me:</h3> 
 
