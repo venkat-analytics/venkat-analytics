@@ -1,68 +1,85 @@
-name: generate
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs every day at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # runs every day at midnight
+  workflow_dispatch:      # allows manual trigger
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Step 2: Generate the snake SVGs
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: venkat-analytics
+          github_user_name: venkat-analytics   # 👈 change if username differs
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Step 3: Add months, weekdays, year to the snake
       - name: Add axes labels (months, weekdays, year) to SVGs
         run: |
           python3 - <<'EOF'
           import xml.etree.ElementTree as ET
           from datetime import datetime
 
-          CELL = 12
-          START_X = 14
-          START_Y = 14
+          CELL = 13   # contribution cell size
+          START_X = 16
+          START_Y = 16
 
           def add_labels(svg_file, text_color="gray"):
               tree = ET.parse(svg_file)
               root = tree.getroot()
 
-              # Add year
+              # Handle namespace if present
+              if "}" in root.tag:
+                  ns = root.tag.split("}")[0] + "}"
+              else:
+                  ns = ""
+
+              # Add year label
               year = str(datetime.now().year)
-              text = ET.Element("text", {
-                  "x": str(START_X), "y": str(START_Y - 6),
-                  "fill": text_color, "font-size": "12",
+              year_text = ET.Element("text", {
+                  "x": str(START_X),
+                  "y": str(START_Y - 6),
+                  "fill": text_color,
+                  "font-size": "12",
                   "font-family": "sans-serif"
               })
-              text.text = year
-              root.append(text)
+              year_text.text = year
+              root.append(year_text)
 
-              # Add weekdays
+              # Add weekdays (Mon, Wed, Fri)
               weekdays = ["Mon", "Wed", "Fri"]
               for i, day in enumerate([1, 3, 5]):
                   text = ET.Element("text", {
-                      "x": str(START_X - 22),
-                      "y": str(START_Y + CELL*day + 8),
-                      "fill": text_color, "font-size": "10",
+                      "x": str(START_X - 26),
+                      "y": str(START_Y + CELL*day + 9),
+                      "fill": text_color,
+                      "font-size": "10",
                       "font-family": "sans-serif"
                   })
                   text.text = weekdays[i]
                   root.append(text)
 
-              # Add months
+              # Add months along top
               months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
               for i, month in enumerate(months):
                   text = ET.Element("text", {
                       "x": str(START_X + i*CELL*4),
                       "y": str(START_Y - 4),
-                      "fill": text_color, "font-size": "10",
+                      "fill": text_color,
+                      "font-size": "10",
                       "font-family": "sans-serif"
                   })
                   text.text = month
@@ -70,12 +87,13 @@ jobs:
 
               tree.write(svg_file)
 
-          # Normal SVG = gray text
+          # Normal (light) mode
           add_labels("dist/github-contribution-grid-snake.svg", "gray")
-          # Dark mode SVG = white text
+          # Dark mode
           add_labels("dist/github-contribution-grid-snake-dark.svg", "white")
           EOF
 
+      # Step 4: Push snake to output branch
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
