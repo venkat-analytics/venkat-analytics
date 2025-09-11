@@ -203,7 +203,7 @@
 
 ✨ Thank you for visiting my profile! 🚀
 
-[Crafted with <img src=("https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png") alt="Red Heart" width="20" height="20"/>] by Venkat
+Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20"/> by Venkat
 
 
 
