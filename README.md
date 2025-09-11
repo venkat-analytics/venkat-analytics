@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Venkat
+# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm 
 
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Venkat&fontSize=80&animation=scaleIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau&descAlignY=60&descAlign=62" width="100%"/>
@@ -11,7 +11,7 @@
 ---
 <!-- Typing Text Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analyst;Information%20Technology%20Undergraduate;Aspiring%20Business%20Intelligence%20Professional&font=Silkscreen&center=true&width=800&height=57&color=52cbd1&vCenter=true&pause=300&size=44" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analyst&font=Silkscreen&center=true&width=800&height=57&color=52cbd1&vCenter=true&pause=300&size=44" alt="Typing Intro" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com/?lines=Excel;Power%20BI;SQL;Python;Tableau&font=Silkscreen&center=true&width=800&height=57&color=69ff91&vCenter=true&pause=300&size=36" alt="Tech Skills" />
   <br><br>
