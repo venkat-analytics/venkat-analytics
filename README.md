@@ -60,7 +60,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me:  
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Engineer+Student+(IT);%F0%9F%93%8A+Aspiring+Data+Analyst;%F0%9F%92%BB+Skilled+in+Excel%2C+Power+BI%2C+SQL%2C+Python%2C+Tableau;%F0%9F%93%88+Building+Interactive+Dashboards;%E2%9A%96%EF%B8%8F+Problem+Solving+%26+Decision+Making" alt="Typing SVG">
@@ -109,7 +109,7 @@
 
 ---
 
-## Tools and Technologies  
+## Tools and Technologies:  
 
 <div align="center">
 
