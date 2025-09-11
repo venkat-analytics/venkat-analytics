@@ -8,12 +8,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Venkat&fontSize=80&animation=scaleIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau&descAlignY=60&descAlign=62" width="100%"/>
 </div>
 
-<p align="center" >
-   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
-</p>
-  
 
- 
 📍 Based in Hyderabad, India
 
 ---
@@ -79,12 +74,19 @@
  
 
 ---
+<p align="center" >
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
+</p>
 
 <h3 style="color: #1e40af;">Visit my Projects:</h3>
 <ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
   <li><h3>😎 <a href="https://github.com/venkat-analytics/Adventure-Works-Sales-Analysis" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Adventure Works Sales Analysis</a></h3></li>
   <li><h3>💾 <a href="https://github.com/venkat-analytics/Blinkit-Sales-Analysis-Dashboard" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Blinkit Grocery Sales Analysis</a></h3></li>
 </ul>
+
+<p align="center" >
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
+</p>
 
 
 ---
