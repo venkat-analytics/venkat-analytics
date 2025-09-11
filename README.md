@@ -161,7 +161,23 @@
 - ✅ Master *Advanced SQL & Python for Analytics*  
 - ✅ Publish *3+ Data Analytics projects* on GitHub  
 - ✅ Earn a *Microsoft Data Analyst Associate Certification*  
-- ✅ Contribute to *open-source analytics projects*  
+- ✅ Contribute to *open-source analytics projects*
+
+ ## 🏆 Achievements Showcase
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=venkat-analytics&theme=react)
+
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
+![Snake](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/dist/github-snake.svg)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>
+ 
 
 ---
 
