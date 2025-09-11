@@ -107,14 +107,14 @@
 </div>
 
 
+<h3 style="color: #1e40af;">Most Used Languages:</h3>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-analytics&layout=compact&theme=tokyonight)
 
 <h3 style="color: #1e40af;">Github Streak:</h3>  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkat-analytics&theme=tokyonight) 
 
-<h3 style="color: #1e40af;">Most Used Languages:</h3>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-analytics&layout=compact&theme=tokyonight)
 
 <h3 style="color: #1e40af;">Github contributions:</h3>
 <p>
