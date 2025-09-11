@@ -52,7 +52,7 @@
 
 ---
 
-## 🚀 About Me  
+<h3 style="color: #1e40af;">About Me:</h3> 
 - 📊 Passionate about *Data Analytics & Visualization*  
 - 🛠 Skilled in *Excel, Power BI, SQL, Python (Basic), Tableau)*  
 - 🌱 Currently learning *Advanced Analytics & Dashboarding*  
@@ -61,7 +61,7 @@
 
 ---
 
-## 🏆 Achievements 
+<h3 style="color: #1e40af;">Achievements:</h3> 
 - 🏅 Completed *GenAI Powered Data Analytics*
 - 🥇 Completed *Data Analytics Projects* using Excel, Power BI & Tableau  
 - 💡 Created *Interactive Dashboards* with slicers, drill-through, and KPIs  
@@ -79,7 +79,7 @@
 
 ---
 
-## 🛠 Tools & Technologies  
+<h3 style="color: #1e40af;">Tools And Technologies:</h3> 
 
 <p align="center">
   <!-- Excel -->
@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## 🌱 Currently Learning  
+<h3 style="color: #1e40af;">Currently Learning:</h3> 
 
 <p align="center">
   <!-- Advanced SQL -->
@@ -123,15 +123,15 @@
   <img src="https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps"/>
 </p>
 
-## 📊 GitHub Streak   
+<h3 style="color: #1e40af;">Github Streak:</h3>  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkat-analytics&theme=tokyonight) 
 
-## 📊 Most Used Languages
+<h3 style="color: #1e40af;">Most Used Languages:</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-analytics&layout=compact&theme=tokyonight) 
   
-## 📊 GitHub Contributions  
+<h3 style="color: #1e40af;">Github Contributions With Snake Animation:</h3> 
 
 ![Github Contributions](https://img.shields.io/badge/Github%20Contributions-Active-brightgreen?style=flat&logo=github)
 
@@ -139,12 +139,12 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-## 📈 Activity Graph
+<h3 style="color: #1e40af;">Activity Graph:</h3>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkat-analytics&theme=react-dark&hide_border=true)
 
 ---
 
-## 🎯 Goals for 2025  
+<h3 style="color: #1e40af;">Goals For 2025:</h3> 
 - ✅ Master *Advanced SQL & Python for Analytics*  
 - ✅ Publish *3+ Data Analytics projects* on GitHub  
 - ✅ Earn a *Microsoft Data Analyst Associate Certification*  
@@ -152,7 +152,7 @@
 
 ---
 
-## 🔗 Connect with Me  
+<h3 style="color: #1e40af;">Connect With Me:</h3> 
 <!-- Social Icons Section -->
 <p align="left">
   <!-- LinkedIn -->
