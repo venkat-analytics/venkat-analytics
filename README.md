@@ -207,6 +207,63 @@
 
 Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20"/> by Venkat
 
+<h2 align="center">⚡ Futuristic Stick Animations</h2>
+<p align="center">
+  <!-- Breathing Stick -->
+  <svg width="120" height="200" viewBox="0 0 120 200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="60" cy="30" r="15" stroke="#00f0ff" stroke-width="4" fill="none">
+      <animate attributeName="r" values="15;18;15" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="60" y1="45" x2="60" y2="120" stroke="#00f0ff" stroke-width="4" />
+    <line x1="60" y1="60" x2="30" y2="90" stroke="#00f0ff" stroke-width="4" />
+    <line x1="60" y1="60" x2="90" y2="90" stroke="#00f0ff" stroke-width="4" />
+    <line x1="60" y1="120" x2="40" y2="170" stroke="#00f0ff" stroke-width="4" />
+    <line x1="60" y1="120" x2="80" y2="170" stroke="#00f0ff" stroke-width="4" />
+  </svg>
 
+  <!-- Neon Sword -->
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="40" r="15" stroke="#39ff14" stroke-width="4" fill="none"/>
+    <line x1="100" y1="55" x2="100" y2="120" stroke="#39ff14" stroke-width="4" />
+    <line x1="100" y1="70" x2="60" y2="100" stroke="#39ff14" stroke-width="4" />
+    <line x1="100" y1="70" x2="140" y2="100" stroke="#39ff14" stroke-width="4" />
+    <line x1="100" y1="120" x2="80" y2="170" stroke="#39ff14" stroke-width="4" />
+    <line x1="100" y1="120" x2="120" y2="170" stroke="#39ff14" stroke-width="4" />
+    <line x1="140" y1="100" x2="160" y2="30" stroke="#ff073a" stroke-width="6">
+      <animate attributeName="y2" values="30;20;30" dur="1.5s" repeatCount="indefinite"/>
+    </line>
+  </svg>
+
+  <!-- Energy Pulse -->
+  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="100" r="30" stroke="#00e5ff" stroke-width="4" fill="none">
+      <animate attributeName="r" values="30;60;30" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="100" y1="40" x2="100" y2="120" stroke="#00e5ff" stroke-width="4"/>
+    <circle cx="100" cy="25" r="15" stroke="#00e5ff" stroke-width="4" fill="none"/>
+    <line x1="100" y1="60" x2="70" y2="90" stroke="#00e5ff" stroke-width="4"/>
+    <line x1="100" y1="60" x2="130" y2="90" stroke="#00e5ff" stroke-width="4"/>
+    <line x1="100" y1="120" x2="80" y2="170" stroke="#00e5ff" stroke-width="4"/>
+    <line x1="100" y1="120" x2="120" y2="170" stroke="#00e5ff" stroke-width="4"/>
+  </svg>
+
+  <!-- Hover Jetpack -->
+  <svg width="160" height="220" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="80" cy="40" r="15" stroke="#ff00ff" stroke-width="4" fill="none"/>
+    <line x1="80" y1="55" x2="80" y2="120" stroke="#ff00ff" stroke-width="4"/>
+    <line x1="80" y1="70" x2="50" y2="100" stroke="#ff00ff" stroke-width="4"/>
+    <line x1="80" y1="70" x2="110" y2="100" stroke="#ff00ff" stroke-width="4"/>
+    <line x1="80" y1="120" x2="70" y2="170" stroke="#ff00ff" stroke-width="4"/>
+    <line x1="80" y1="120" x2="90" y2="170" stroke="#ff00ff" stroke-width="4"/>
+    <!-- Jet flames -->
+    <line x1="70" y1="170" x2="70" y2="200" stroke="#ffae00" stroke-width="6">
+      <animate attributeName="y2" values="200;190;200" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+    <line x1="90" y1="170" x2="90" y2="200" stroke="#ffae00" stroke-width="6">
+      <animate attributeName="y2" values="200;190;200" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+  </svg>
+</p>
 
 
