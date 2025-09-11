@@ -1,8 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm 
 
-<p align="center" >
-   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
-</p>
 
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Venkat&fontSize=80&animation=scaleIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau&descAlignY=60&descAlign=62" width="100%"/>
@@ -23,10 +20,17 @@
 
 <hr style="margin-bottom: 40px; border: 2px solid #52cbd1; width: 80%;">
 
-  
+<p align="center" >
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
+</p>
+
 <!-- Centered Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=venkat-analytics&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" width="250"/>
+</p>
+
+<p align="center" >
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
 </p>
 
 <!-- Centered Social Icons -->
@@ -74,19 +78,13 @@
  
 
 ---
-<p align="center" >
-   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
-</p>
+
 
 <h3 style="color: #1e40af;">Visit my Projects:</h3>
 <ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
   <li><h3>😎 <a href="https://github.com/venkat-analytics/Adventure-Works-Sales-Analysis" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Adventure Works Sales Analysis</a></h3></li>
   <li><h3>💾 <a href="https://github.com/venkat-analytics/Blinkit-Sales-Analysis-Dashboard" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Blinkit Grocery Sales Analysis</a></h3></li>
 </ul>
-
-<p align="center" >
-   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
-</p>
 
 
 ---
