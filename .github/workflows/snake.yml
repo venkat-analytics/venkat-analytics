@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:      # manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,9 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Step 2: Generate snake SVGs
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,27 +26,64 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 🔎 Debug step to inspect SVG structure
-      - name: Debug Snake SVG structure
+      # Step 3: Add axis labels (months, weekdays, year)
+      - name: Add Labels to Snake
         run: |
           python3 - <<'EOF'
           import xml.etree.ElementTree as ET
+          from datetime import datetime
 
-          svg_file = "dist/github-contribution-grid-snake.svg"
-          tree = ET.parse(svg_file)
-          root = tree.getroot()
+          for file in ["dist/github-contribution-grid-snake.svg",
+                       "dist/github-contribution-grid-snake-dark.svg"]:
+              tree = ET.parse(file)
+              root = tree.getroot()
+              ns = {"svg": "http://www.w3.org/2000/svg"}
 
-          print("=== SVG Root Attributes ===")
-          print(root.attrib)
+              # Add months (top axis)
+              months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+              start_x, y, step = 14, 10, 60
+              for i, month in enumerate(months):
+                  text = ET.Element("text", {
+                      "x": str(start_x + i*step),
+                      "y": str(y),
+                      "font-size": "10",
+                      "fill": "#555",
+                      "text-anchor": "middle"
+                  })
+                  text.text = month
+                  root.append(text)
 
-          print("\n=== First 10 Rectangles (contribution cells) ===")
-          rects = root.findall(".//{http://www.w3.org/2000/svg}rect")
-          for i, rect in enumerate(rects[:10]):
-              print(rect.attrib)
+              # Add weekdays (left axis)
+              weekdays = ["Mon","Wed","Fri"]
+              x, start_y, step = 2, 24, 26
+              for i, day in enumerate(weekdays):
+                  text = ET.Element("text", {
+                      "x": str(x),
+                      "y": str(start_y + i*step),
+                      "font-size": "10",
+                      "fill": "#555",
+                      "text-anchor": "start"
+                  })
+                  text.text = day
+                  root.append(text)
 
-          print(f"\nTotal contribution cells: {len(rects)}")
+              # Add current year (bottom center)
+              year = str(datetime.now().year)
+              text = ET.Element("text", {
+                  "x": "360",  # half of 720 width
+                  "y": "105",  # near bottom
+                  "font-size": "12",
+                  "fill": "#333",
+                  "text-anchor": "middle",
+                  "font-weight": "bold"
+              })
+              text.text = year
+              root.append(text)
+
+              tree.write(file)
           EOF
 
+      # Step 4: Push snake to output branch
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
