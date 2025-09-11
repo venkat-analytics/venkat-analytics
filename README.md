@@ -125,11 +125,8 @@
 ![Github Contributions](https://img.shields.io/badge/Github%20Contributions-Active-brightgreen?style=flat&logo=github)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake SVG" src="https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub Snake Light](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/venkat-analytics/venkat-analytics/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 ## 📈 Activity Graph
