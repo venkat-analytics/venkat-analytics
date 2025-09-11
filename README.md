@@ -106,24 +106,7 @@
 
 </div>
 
-<h3 style="color: #1e40af;">Currently Learning:</h3> 
 
-<p align="center">
-  <!-- Advanced SQL -->
-  <img src="https://img.shields.io/badge/Advanced%20SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Advanced SQL"/>
-
-  <!-- Machine Learning -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Machine Learning"/>
-
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science"/>
-
-  <!-- Cloud (Azure) -->
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-
-  <!-- Git & DevOps -->
-  <img src="https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps"/>
-</p>
 
 <h3 style="color: #1e40af;">Github Streak:</h3>  
 
