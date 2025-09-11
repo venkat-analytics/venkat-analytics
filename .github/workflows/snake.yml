@@ -23,58 +23,58 @@ jobs:
       - name: Add axes labels (months, weekdays, year) to SVGs
         run: |
           python3 - <<'EOF'
-import xml.etree.ElementTree as ET
-from datetime import datetime
+          import xml.etree.ElementTree as ET
+          from datetime import datetime
 
-CELL = 12
-START_X = 14
-START_Y = 14
+          CELL = 12
+          START_X = 14
+          START_Y = 14
 
-def add_labels(svg_file, text_color="gray"):
-    tree = ET.parse(svg_file)
-    root = tree.getroot()
+          def add_labels(svg_file, text_color="gray"):
+              tree = ET.parse(svg_file)
+              root = tree.getroot()
 
-    # Add year
-    year = str(datetime.now().year)
-    text = ET.Element("text", {
-        "x": str(START_X), "y": str(START_Y - 6),
-        "fill": text_color, "font-size": "12",
-        "font-family": "sans-serif"
-    })
-    text.text = year
-    root.append(text)
+              # Add year
+              year = str(datetime.now().year)
+              text = ET.Element("text", {
+                  "x": str(START_X), "y": str(START_Y - 6),
+                  "fill": text_color, "font-size": "12",
+                  "font-family": "sans-serif"
+              })
+              text.text = year
+              root.append(text)
 
-    # Add weekdays
-    weekdays = ["Mon", "Wed", "Fri"]
-    for i, day in enumerate([1, 3, 5]):
-        text = ET.Element("text", {
-            "x": str(START_X - 22),
-            "y": str(START_Y + CELL*day + 8),
-            "fill": text_color, "font-size": "10",
-            "font-family": "sans-serif"
-        })
-        text.text = weekdays[i]
-        root.append(text)
+              # Add weekdays
+              weekdays = ["Mon", "Wed", "Fri"]
+              for i, day in enumerate([1, 3, 5]):
+                  text = ET.Element("text", {
+                      "x": str(START_X - 22),
+                      "y": str(START_Y + CELL*day + 8),
+                      "fill": text_color, "font-size": "10",
+                      "font-family": "sans-serif"
+                  })
+                  text.text = weekdays[i]
+                  root.append(text)
 
-    # Add months
-    months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
-    for i, month in enumerate(months):
-        text = ET.Element("text", {
-            "x": str(START_X + i*CELL*4),
-            "y": str(START_Y - 4),
-            "fill": text_color, "font-size": "10",
-            "font-family": "sans-serif"
-        })
-        text.text = month
-        root.append(text)
+              # Add months
+              months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+              for i, month in enumerate(months):
+                  text = ET.Element("text", {
+                      "x": str(START_X + i*CELL*4),
+                      "y": str(START_Y - 4),
+                      "fill": text_color, "font-size": "10",
+                      "font-family": "sans-serif"
+                  })
+                  text.text = month
+                  root.append(text)
 
-    tree.write(svg_file)
+              tree.write(svg_file)
 
-# Normal SVG = gray text
-add_labels("dist/github-contribution-grid-snake.svg", "gray")
-# Dark mode SVG = white text
-add_labels("dist/github-contribution-grid-snake-dark.svg", "white")
-EOF
+          # Normal SVG = gray text
+          add_labels("dist/github-contribution-grid-snake.svg", "gray")
+          # Dark mode SVG = white text
+          add_labels("dist/github-contribution-grid-snake-dark.svg", "white")
+          EOF
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
