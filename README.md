@@ -98,7 +98,6 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 </div>
 
 ---
