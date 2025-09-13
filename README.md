@@ -116,7 +116,7 @@
 
 <h3 style="color: #1e40af;">Visit my Portfolio:</h3>
 <ul style="margin-left: 40px; margin-bottom: 40px; font-size: 1.2rem; color: #4b5563;">
-  <li><h3>😎 <a href="https://venkat-analytics.github.io/Portfolio/" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Portfolio</a></h3></li>
+  <li><h3>😎 <a href="https://venkat-analytics.github.io/My_Portfolio/" target="_blank" rel="noopener noreferrer" style="color: #52cbd1;">Portfolio</a></h3></li>
 </ul>
 
 ---
